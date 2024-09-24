@@ -1,5 +1,3 @@
 #Automação Banco Paraná
 
-** Passo a passo para instalação**
-
-//Read 01
+** Passo a passo para instalação**  
